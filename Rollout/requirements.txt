@@ -1,0 +1,9 @@
+pandas
+transformers
+num2words
+peewee
+opencv-python
+pillow
+sklearn
+transformers
+mariadb
